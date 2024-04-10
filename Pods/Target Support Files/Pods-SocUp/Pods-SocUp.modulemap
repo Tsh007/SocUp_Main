@@ -1,0 +1,6 @@
+framework module Pods_SocUp {
+  umbrella header "Pods-SocUp-umbrella.h"
+
+  export *
+  module * { export * }
+}
