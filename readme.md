@@ -16,10 +16,10 @@ This is a random video calling iOS application developed using Swift, UIKit, WKW
 Include screenshots of your application here to showcase its UI and functionality.
 
 ### Init
-![Init](imp/Initialise.png)
+<img width="1470" alt="Initialise" src="https://github.com/Tsh007/SocUp_Main/assets/77430570/817e412c-8551-4983-8e14-2ba7e901f5bf">
 
 ### Video Call Screen
-![Video Call Screen](imp/videoScreen.png)
+<img width="1470" alt="videoScreen" src="https://github.com/Tsh007/SocUp_Main/assets/77430570/c1380603-6ab4-4fbd-80df-5606c53a76e0">
 
 ## Installation
 
